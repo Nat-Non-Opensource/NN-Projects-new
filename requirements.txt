@@ -1,0 +1,6 @@
+Django
+djangorestframework
+django_extensions
+django_cors_headers
+Pillow
+notebook
